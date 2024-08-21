@@ -1,3 +1,7 @@
+# Faça um programa em que o usuário digita dois valores e 
+# o resultado da soma é exibido na tela. 
+
+
 # Recebendo os valores do usuário
 valor1 = int(input("Digite o primeiro valor: "))
 valor2 = int(input("Digite o segundo valor: "))
